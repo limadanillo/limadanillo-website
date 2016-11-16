@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rudolfoborges/limadanillo-website.git"
+    "url": "git+https://github.com/limadanillo/limadanillo-website.git"
   },
   "keywords": [
     "Website"
@@ -16,9 +16,9 @@
   "author": "Danillo Lima",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rudolfoborges/limadanillo-website/issues"
+    "url": "https://github.com/limadanillo/limadanillo-website/issues"
   },
-  "homepage": "https://github.com/rudolfoborges/limadanillo-website#readme",
+  "homepage": "https://github.com/limadanillo/limadanillo-website#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-cssmin": "^0.1.7",
